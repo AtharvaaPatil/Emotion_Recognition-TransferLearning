@@ -9,4 +9,4 @@
     - PPG
     - ECG
     - EEG
- ![Signals](signals.png)
+ ![Signals](Images/signals.png)
